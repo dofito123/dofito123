@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning to make games.
 - 📫 You can reach me via my website and discord (links below!).
-- 🔗 Website: https://improved.github.io
+- 🔗 Website: https://dofito123.github.io/improved-default
 - 🔗 Discord: https://discord.gg/AeYWC52B95
